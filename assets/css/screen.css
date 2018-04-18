@@ -198,7 +198,7 @@ body {
     align-items: flex-start;
     overflow-y: hidden;
     height: 40px;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 .site-nav-left {
@@ -256,7 +256,6 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     margin: 0;
     padding: 0;
-    text-transform: uppercase;
 }
 
 .nav li a {
@@ -395,9 +394,9 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card:hover {
-    box-shadow: 0 0 1px rgba(39,44,49,0.10), 0 3px 16px rgba(39, 44, 49,0.07);
-    transition: all 0.3s ease;
-    transform: translate3D(0, -1px, 0);
+    box-shadow: 3px 3px 16px rgba(39, 44, 49,0.5);
+    transition: all 0.5s ease;
+    transform: translate3D(0, -3px, 0);
 }
 
 .post-card-image-link {
