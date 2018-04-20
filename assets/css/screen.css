@@ -164,7 +164,7 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 120px;
 }
 
 .site-description {
@@ -390,13 +390,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     background-size: cover;
     border-radius: 5px;
     box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
-    transition: all 0.5s ease;
+    transition: all 0.3s ease;
 }
 
 .post-card:hover {
     box-shadow: 3px 3px 16px rgba(39, 44, 49,0.5);
-    transition: all 0.5s ease;
-    transform: translate3D(0, -3px, 0);
+    transition: all 0.3s ease;
 }
 
 .post-card-image-link {
