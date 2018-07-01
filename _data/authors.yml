@@ -7,26 +7,28 @@ sami:
   picture: assets/images/sami.png
   facebook: False
   twitter: httpsterio
+  instagram: httpsterio
   cover: assets/images/blog-cover.jpg
 henna:
-  username: Henna
-  name: Henna Järvinen
-  location: Jyväskylä
+  username: henna
+  name: Henna
+  location: False
   url_full: 
   url: 
   bio: E
-  picture: 
+  picture: assets/images/henna.jpg
   facebook: False
-  twitter: 
+  twitter: False
+  instagram: kirrpukka
   cover: assets/images/blog-cover.jpg
 hennajasami:
-  username: Henna ja Sami
+  username: hennajasami
   name: Henna ja Sami
   location: Jyväskylä
   url_full: 
   url: 
   bio: E
-  picture: 
+  picture: assets/images/hennajasami.jpg
   facebook: False
   twitter: 
-  cover: assets/images/kahvi1.jpg
+  cover: assets/images/blog-cover.jpg

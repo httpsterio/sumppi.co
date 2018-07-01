@@ -3,12 +3,12 @@ layout: post
 current: post
 cover:  assets/images/kahvi1.jpg
 navigation: True
-title: Tervetuloa!
+title: Testiwau!
 date: 2018-04-20
 tags: [Uutiset]
 class: post-template
 subclass: 'post tag-getting-started'
-author: sami
+author: hennajasami
 ---
 
 Nonii, toinen kerta toden sanoo. Koitin joskus launchaa kahvi-aiheista sivua jo pari vuotta sitten, mutta homma tyrehtyi sekä ajan ja motivaation puutteeseen. Mut kyl tää tästä!
