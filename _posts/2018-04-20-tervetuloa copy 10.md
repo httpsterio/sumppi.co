@@ -4,16 +4,14 @@ current: post
 cover:  assets/images/kahvi1.jpg
 navigation: True
 title: Tervetuloa!
-date: 2018-04-19
-tags: [Getting started]
+date: 2018-04-20
+tags: [Uutiset]
 class: post-template
 subclass: 'post tag-getting-started'
 author: sami
 ---
 
-Hey! Welcome to Ghost, it's great to have you :)
-
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+Nonii, toinen kerta toden sanoo. Koitin joskus launchaa kahvi-aiheista sivua jo pari vuotta sitten, mutta homma tyrehtyi sekä ajan ja motivaation puutteeseen. Mut kyl tää tästä!
 
 ### There are a few things that you should know up-front:
 1. Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for. If you're using Ghost for some other purpose, that's fine too - but it might not be the best choice for you.
