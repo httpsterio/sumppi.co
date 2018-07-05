@@ -122,21 +122,6 @@ into the {body} of the default.hbs template -->
                             {% endif %}
                         </header>
                         <div class="read-next-divider">{% include infinity.html %}</div>
-                        <div class="read-next-card-content">
-                            <ul>
-                                {% assign count = 0 %}
-                                {% for post in site.posts %}
-                                  {% if post.tags contains primary %}
-                                    {% if post.title != page.title %}
-                                        {% assign count = count | plus: 1 %}
-                                        {% if count <= 3 %}
-                                            <li><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}</a></li>
-                                        {% endif %}
-                                    {% endif %}
-                                  {% endif %}
-                                {% endfor %}
-                            </ul>
-                        </div>
                         <footer class="read-next-card-footer">
                             <a href="{{ site.baseurl }}tag/{{ primary | downcase | replace: ' ', '-' }}/">
                                 {% if related_posts > 1 %}

@@ -1,13 +1,13 @@
 <nav class="pagination" role="pagination">
     {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-            <a class="newer-posts" href="{{ site.baseurl }}" title="Previous Page">&laquo; Uudemmat kirjoitukset</a>
+            <a class="newer-posts" href="{{ site.baseurl }}" title="Edellinen sivu">&laquo; Uudemmat kirjoitukset</a>
         {% else %}
-            <a class="newer-posts" href="{{ site.baseurl }}page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Uudemmat kirjoitukset</a>
+            <a class="newer-posts" href="{{ site.baseurl }}page{{ paginator.previous_page }}/" title="Edellinen sivu">&laquo; Uudemmat kirjoitukset</a>
       {% endif %}
     {% endif %}
     <span class="page-number"> Sivu {{ paginator.page }}</span>
     {% if paginator.next_page %} 
-        <a class="older-posts" href="{{ site.baseurl }}page{{ paginator.next_page }}/" title="Next Page">Vanhemmat kirjoitukset &raquo;</a>
+        <a class="older-posts" href="{{ site.baseurl }}page{{ paginator.next_page }}/" title="Seuraava sivu">Vanhemmat kirjoitukset &raquo;</a>
     {% endif %} 
 </nav>
