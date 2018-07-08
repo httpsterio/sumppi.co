@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover:  assets/images/kahvi1.jpg
+cover:  assets/images/2018-hcf/chemex.jpg
 navigation: True
-title: Tervetuloa!
-date: 2018-04-20
-tags: [Uutiset]
+title: Moi moi moikka moi
+date: 2018-07-05
+tags: [Tapahtumat]
 class: post-template
-subclass: 'post tag-getting-started'
-author: henna
+author: sami
+excerpt: "Tää on vähä niinku eka postaus. koita siitäki saada selvää sit perkele."
 ---
 
 Nonii, toinen kerta toden sanoo. Koitin joskus launchaa kahvi-aiheista sivua jo pari vuotta sitten, mutta homma tyrehtyi sekä ajan ja motivaation puutteeseen. Mut kyl tää tästä!

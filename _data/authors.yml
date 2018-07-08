@@ -1,9 +1,9 @@
 sami:
   username: sami
   name: Sami
-  url_full: http://sumppi.co/sami
+  url_full:
   url: False
-  bio: Kahvi muuttuu sulavasti koodiksi ja designiksi mun käsissä
+  bio: Kahvi muuttuu sulavasti koodiksi ja designiksi mun käsissä. Kahvi-intoilija since 2012.
   picture: assets/images/sami.png
   facebook: False
   twitter: httpsterio
@@ -15,7 +15,7 @@ henna:
   location: False
   url_full: 
   url: 
-  bio: E
+  bio: Kahvi, tee, biologia & kuvataide.
   picture: assets/images/henna.jpg
   facebook: False
   twitter: False
@@ -23,12 +23,13 @@ henna:
   cover: assets/images/blog-cover.jpg
 hennajasami:
   username: hennajasami
-  name: Henna ja Sami
+  name: Henna&Sami
   location: Jyväskylä
   url_full: 
   url: 
-  bio: E
+  bio: Kahvi ja tee on meillä lähellä sydäntä. Kirjotellaan, maistellaan ja ihmetellään niitä yhdessä ja dokumentoidaan sitten tänne.
   picture: assets/images/hennajasami.jpg
   facebook: False
-  twitter: 
+  twitter: False
+  instagram: sumppico
   cover: assets/images/blog-cover.jpg
