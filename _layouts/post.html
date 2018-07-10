@@ -60,7 +60,6 @@ into the {body} of the default.hbs template -->
                     {% include subscribe-form.html placeholder="youremail@example.com" %}
                 </section>
             {% endif %}
-
             <footer class="post-full-footer">
                 <!-- Everything inside the #author tags pulls data from the author -->
                 <!-- #author-->
@@ -75,8 +74,9 @@ into the {body} of the default.hbs template -->
                                 {% if author[1].bio %}
                                     <p>{{ author[1].bio }}</p>
                                 {% else %}
-                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
+                                    <p>Lue <a href="{{ site.baseurl }}author/{{ page.author }}">lisää kirjoituksia</a> tältä kirjoittajalta</p>
                                 {% endif %}
+                                <p class="footer-small"><a class="footer-small" href="{{ site.baseurl}}author/{{ page.author }}" >Lue lisää kirjoittajasta</a></p>
                             </section>
                         </section>
                         <div class="post-full-footer-right">
@@ -86,6 +86,7 @@ into the {body} of the default.hbs template -->
                 {% endfor %}
                 <!-- /author  -->
             </footer>
+        </a>
 
         </article>
 
