@@ -480,8 +480,11 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     text-transform: uppercase;
 }
 
+.footer-small-p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 .footer-small {
-    padding-top:5px;
     color: #CC4949;
     text-decoration: underline;
 }

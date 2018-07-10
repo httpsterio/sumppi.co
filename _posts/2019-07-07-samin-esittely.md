@@ -1,35 +1,22 @@
 ---
 layout: post
 current: post
-cover:  assets/images/2018-hcf/chemex.jpg
+cover:  assets/images/2018-07/espressokone.jpg
 navigation: True
-title: Sami esittelee itsensä (stop right there, criminal scum!)
+title: Kurkistus verhojen taa – Sami
 date: 2018-07-05
-tags: [Tapahtumat]
+tags: [Muut]
 class: post-template
 author: sami
-excerpt: "Samin esittely"
+excerpt: "Samin ensikosketukset kahvin parissa alkoivat melko... hasardisti. Vuosien saatossa on kuppejakin tyhjennetty huolella, mutta onko siitä jäänyt mitään käteen? Lisää linkin takaa!"
 ---
 
-# Ensimmäinen postaus
+Muistan kun join ensimmäinen kerran kokonaisen kupin kahvia. Se oli **hirveätä**. 
 
-Kasvoin hyvin suomalaiselle tyypilliseen tapaan juoda kahvia: 
-Juhla Mokka ja loraus maitoa oli pitkään mielestäni paras tapa nauttia kuppi kahvia.
-Mustana kahvi tuli juotua vain tilanteissa, joissa jo täytettyä kahvikuppia ei enää kehdannut olla juomatta, eikä maitoa ollut saatavilla. 
-Tällaisissa tilanteissa kahvi oli usein myös hieman summan mutikassa keitetty, eikä siis ollut mikään makuhermoja hivelevä kokemus.
-Nämä ensimmäiset kokemukset kahvista ilman maitoa, sokeria tai muuta höystettä saivat minut vastaisuudessakin välttelemään kahvin juomista mustana. 
-Ei siis varmaan ole suuri yllätys, että juodessani vihdoin jotain Juhla Mokkaa parempaa, aloitin erilaisista maitokahvijuomista. 
+Herran vuonna 2010 olin 17 ja ½ vuotta nuori ja istuin autokoulun teoriatunnilla nuokkumassa. Epätoivoisena mietin, että mitähän sitä tekisi, sillä nuokkuminen ei käynyt opettajien mielestä päinsä, mutta ajokortti oli kyllä tiukasti kiikarissa. Olin kyllä joskus nuorempana maistellut kahvia, mutta ne ei ollut koskaan mitään *makuhermoja hiveleviä kokemuksia* – kuten ei [Hennallakaan ollut](/artikkeli/hennan-esittely).
 
-Puolisoni Sami valotti minulle noin kaksi vuotta sitten paremman kahvin maailmaa ja hänen kauttaan mielenkiintoni tähän hommaan on alunperin herännyt. 
-Koin positiivisen yllätyksen siitä, miten erilaisia makuja kahvista voi löytyä. Pikkuhiljaa opin arvostamaan myös kahvin juomista mustana. 
-Vaikka kahvin maistelu onkin mielenkiintoista ja harrastuksena mukava, en voi kiistää etteikö silti vanha kunnon Mokkamasterilla keitetty Juhla Mokka ja loraus maitoa maistuisi. 
+Huonosti pestyssä Mokkamasterissa monta tuntia seisonutta sumppia oli tarjolla. Koostumus melko tahmea ja kaikki lukijatkin varmaan tietävät millainen makean ja palaneen haju siitä lähtee. Eikä ollut edes Juhla Mokkaa uuttumassa, Saludoa.
 
+Mutta, ei muuta kuin kuppi kouraan ja ääntä kohti. Viikkojen kuluessa kupit meni alas aina pienemmillä ja pienemmillä irvistyksillä, vaikkakaan en kyllä koskaan saanut apua siihen väsymykseen kahvista. Ehkä se kahvin hakeminen sieltä huoneen perältä piristi sen verran, että jaksoin seurata tai jonkinsortin placebo-vaikutus valvotti muuten vaan.
 
-Kiinostukseni teehen sen sijaan on tullut ihan omia aikojaan ja reittejään. 
-Tee oli minulle pitkään vain juoma, jota join jos kahvi sattui olemaan loppu. 
-Tähän tuli kuitenkin muutos, kun vihdoin päätin pistää elämän risaiseksi ja ostaa laadukkaampaa irtoteetä sekä lämpömittarin.  
-Asia, joka ei ollut minua ikinä varsinaisesti kiinnostanut, alkoikin vaikuttaa erityisen mielenkiintoiselta. 
-Pikkuhiljaa tutuistuin enemmän erilaisiin teelaatuihin ja teen valmistamiseen. Tätä kautta olen myös päässyt paremmin kartoittamaan omaa teemakuani. 
-Listallani on vielä monenlaisia teelaatuja, joita haluaisin päästä maistamaan ja pyrin aina löytämään jotain itselleni uutta ja mielenkiintoista. 
-
-Oma kahvi- ja teematkani on vasta alkanut ja toivon, että tästä jää edes jollekin jotain käteen!
+Tapa oli muodostunut, pääsin kahvin makuun kiinni. Ja kuten aina kaikissa muissakin asioissa, nörttinä rupean tietenkin paneutumaan ja panostamaan aivan turhan paljon. Miksi harrastaa yhtään mitään, jos joku ei joskus joudu kysymään, että "meneekö sulla nyt vähän yli?"

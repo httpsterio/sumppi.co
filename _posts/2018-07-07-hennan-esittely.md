@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover:  assets/images/2018-hcf/tee.jpg
+cover:  assets/images/2018-07/tee.jpg
 navigation: True
-title: Kurkistus verhojen taa - Henna
+title: Kurkistus verhojen taa – Henna
 date: 2018-07-07
 tags: [Muut]
 class: post-template
@@ -31,3 +31,5 @@ Pikkuhiljaa tutuistuin enemmän erilaisiin teelaatuihin ja teen valmistamiseen. 
 Listallani on vielä monenlaisia teelaatuja, joita haluaisin päästä maistamaan ja pyrin aina löytämään jotain itselleni uutta ja mielenkiintoista. 
 
 Oma kahvi- ja teematkani on vasta alkanut ja toivon, että tästä jää edes jollekin jotain käteen!
+
+![Henna Kahvimessuilla](assets/images/2018-07/henna.jpg)
