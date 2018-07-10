@@ -1,17 +1,15 @@
 ---
 layout: post
 current: post
-cover:  assets/images/2018-07/tee.jpg
+cover:  assets/images/2018-hcf/tee.jpg
 navigation: True
-title: Keksi tähän jotain :3
+title: Kurkistus verhojen taa - Henna
 date: 2018-07-07
 tags: [Muut]
 class: post-template
 author: henna
-excerpt: "Tähän joku tiivistelmä?"
+excerpt: "Henna avaa hieman omasta historiastaan kahvin ja teen ihmeellisten maailmojen parista!"
 ---
-
-# Ensimmäinen postaus
 
 Kasvoin hyvin suomalaiselle tyypilliseen tapaan juoda kahvia: 
 Juhla Mokka ja loraus maitoa oli pitkään mielestäni paras tapa nauttia kuppi kahvia.
