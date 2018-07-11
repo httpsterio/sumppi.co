@@ -32,4 +32,4 @@ Listallani on vielä monenlaisia teelaatuja, joita haluaisin päästä maistamaa
 
 Oma kahvi- ja teematkani on vasta alkanut ja toivon, että tästä jää edes jollekin jotain käteen!
 
-![Henna Kahvimessuilla](assets/images/2018-07/henna.jpg)
+![Henna Kahvimessuilla](/assets/images/2018-07/henna.jpg)
