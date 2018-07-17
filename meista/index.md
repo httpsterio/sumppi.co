@@ -7,6 +7,7 @@ logo: 'assets/images/sumppi.png'
 class: page-template
 subclass: 'post page'
 ---
+<img src="/assets/images/meista.jpg" style="max-width: 80%;" alt="kuvassa Sami ja Henna">
 
 Sumppi on meidän, [Hennan](/artikkeli/hennan-esittely) ja [Samin](/artikkeli/samin-esittely), perustama projekti. Olemme molemmat kahvi- ja teeintoilijoita ja aiomme maistaa kaikki maailman kahvit. 
 

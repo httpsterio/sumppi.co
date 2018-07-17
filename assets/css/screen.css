@@ -824,6 +824,12 @@ Usage (In Ghost edtior):
     width: 100vw;
 }
 
+.post-full-content img[src$="#semi"] {
+    max-width: none;
+    width: 80vw;
+    border: 5px solid black;
+}
+
 
 /* Image captions
 
