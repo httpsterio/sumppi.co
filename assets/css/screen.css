@@ -827,7 +827,7 @@ Usage (In Ghost edtior):
 .post-full-content img[src$="#semi"] {
     max-width: none;
     width: 80vw;
-    border: 5px solid black;
+    border: 7px solid black;
 }
 
 
