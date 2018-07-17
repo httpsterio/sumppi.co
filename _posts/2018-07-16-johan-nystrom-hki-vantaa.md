@@ -1,30 +1,21 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2018-07/johannystrom1.jpg
+cover: assets/images/2018-07/johannystrom1.jpg
 navigation: True
-title: Kahvilavierailu: Johan & Nyström @ Helsinki-Vantaa
+title: "Kahvilavierailu: Johan & Nyström Helsinki-Vantaa"
 date: 2018-07-16
 tags: [Kahvilat]
 class: post-template
 author: sami
-excerpt: Tanskanmatkan ensimmäisellä etapilla pysähdyimme Johan & Nyströmmin lentokenttäkahvilassa nappaamassa pikaisen flat whiten ja espresson. Mutta saako lentokentältä oikeasti juomakelpoista kahvia? 
-
+excerpt: "Tanskanmatkan ensimmäisellä etapilla pysähdyimme Johan & Nyströmmin lentokenttäkahvilassa nappaamassa pikaisen flat whiten ja espresson. Mutta saako lentokentältä oikeasti juomakelpoista kahvia?" 
 ---
-
-# Kahvilavierailu: Johan & Nyström @ Helsinki-Vantaa
-
-#tanska #johannyström
-
-![Johan & Nyströmmin logo](/assets/images/2018-07/johannystrom1.jpg)
 
 Meidän kesän 2018 päätapahtuma on kahvintäytteinen viikko Kööpenhaminassa, Samin synnyinmaassa, Tanskassa. Ensimmäinen etappi tällä reissulla on tietenkin Helsinki-Vantaan lentokenttä.
 
-Lentokentät ovat kuin suljettu ekosysteemi. Turvatarkastuksesta läpi astuttua, saapuu aivan vieraaseen maailmaan. Kaikki käy ja kukkuu 24/7, vuorokaudenajat menettävät merkityksensä ja kaikkialla pitäisi olla pohjattomat taskut.
-
 Henna ei ole koskaan ennen käynyt lentokentällä, joten sain seurata vierestä hänen ensimmäisiä reaktioita tähän kauppakeskuksen ja risteilylaivan rumaan risteytykseen. Kaikki oli muuten hyvin, mutta kahvi kuulemma maistuisi.
 
-Ilmaisua *"hyvää kahvia"* on vaikeaa ajatella samassa kontekstissa lentokenttien kanssa, mutta Helsinki-Vantaa onkin onneksi hieman poikkeuksellisen hyvinvarusteltu lentokenttä. Johan & Nyströmmille siis.
+Ilmaisua *"hyvää kahvia"* on vaikeaa ajatella samassa kontekstissa lentokenttien kanssa, mutta Helsinki-Vantaa onkin onneksi hieman poikkeuksellisen hyvinvarusteltu lentokenttä. Johan & Nyströmmille siis!
 
 
 
@@ -38,9 +29,9 @@ Baristojen asiakaspalvelu on suomalaisen kolmannen aallon kahviloille tyypillise
 
 Tilasimme flat whiten ja espresson, jotka olivat valmistettu Johan & Nyströmmin FTO-kahviblendistä. Espresson mukana tuli lasillinen vissyä makuhermojen puhdistamista varten. 
 
-FTO -blendistä on kyllä ihan hyviä kokemuksia, se on melko tasapainoinen espresso ja taipuu monenlaiseen, mutta tällä kertaa siinä hieman ongelmia.
+Minulla on FTO -blendistä ihan hyviä kokemuksia, se on melko tasapainoinen espresso ja taipuu monenlaiseen, mutta tällä kertaa siinä hieman ongelmia.
 
-Espresso maistui hieman palanneelta, mikä johtuu todennäköisesti siitä, että portafilterissä, eli suodatinkahvassa, oli liikaa kahvia. Tämä johtaa siihen, että kahvi ei mahdu laajenemaan ja jää kuivaksi. SIlloin tampattu kahvi kärähtää ollessaan gruppoa, eli espressokoneen suodatinta, vasten. Lopputulemana on kuiva kahvikiekko portafiltterissä ja yleensä palanut ja aliuuttunut espressoshotti.
+Espressot maistuivat hieman palanneelta, mikä johtuu todennäköisesti siitä, että portafilterissä, eli suodatinkahvassa, oli liikaa kahvia. Tämä johtaa siihen, että kahvi ei mahdu laajenemaan ja jää kuivaksi. SIlloin tampattu kahvi kärähtää ollessaan gruppoa, eli espressokoneen suodatinta, vasten. Lopputulemana on kuiva kahvikiekko portafiltterissä ja yleensä palanut ja aliuuttunut espressoshotti.
 
 Flat whiten maito pelasti tilanteen. Maidossa oli kaunis kukkakuvio ja se oli rakenteeltaan melko sileä ja kermainen. Kevyt palaneen maku yritti aina hiipiä suuhun juuri ennen kuin maito pelasti joka suullisen. Flat whitessä oli muuten persoonallinen, miellyttävä ja silkkinen suuntuntuma ja kahvinhimot tulivat asiallisesti tyydytettyä.
 
