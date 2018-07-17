@@ -17,7 +17,7 @@ Henna ei ole koskaan ennen käynyt lentokentällä, joten sain seurata vierestä
 
 Ilmaisua *"hyvää kahvia"* on vaikeaa ajatella samassa kontekstissa lentokenttien kanssa, mutta Helsinki-Vantaa onkin onneksi hieman poikkeuksellisen hyvinvarusteltu lentokenttä. Johan & Nyströmmille siis!
 
-![johan & nyströmmin kahvila](/assets/images/2018-07/johannystrom2.jpg#semi)
+![johan & nyströmmin kahvila](/assets/images/2018-07/johannystromkahvila.jpg#semi)
 
 Miljöönä Johan & Nyströmmin Helsinki-Vantaan edustus on lentokenttämäisen hektinen ja kiireinen. Kahvila sijaitsee kakkosterminaalin aivan perimmäisessä päässä. Asiakaspaikkoja on yleensä saatavilla, eikä jonoakaan yleensä ole juuri nimeksikään.
 
