@@ -6,6 +6,7 @@ language: 'fi-fi'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
+url: sumppi.co
 
 # Website info
 title: Sumppi
