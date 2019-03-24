@@ -58,6 +58,7 @@ body {
 .site-main {
   z-index: 100;
   flex-grow: 1;
+  background-color: rgb(245, 242, 233);
 }
 
 /* Full width page blocks */
@@ -450,6 +451,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-excerpt {
+  font-size: 1.8rem;
   font-family: Georgia, serif;
 }
 
@@ -535,7 +537,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
   }
 
   .home-template .post-feed .post-card:first-child:not(.no-image) p {
-    font-size: 1.8rem;
     line-height: 1.55em;
   }
 

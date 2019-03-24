@@ -4,35 +4,27 @@ current: post
 cover: assets/images/2019-03/burundikuppi.jpg
 navigation: True
 title: "Kupissa - Burundilainen testipaahto"
-date: 2018-07-16
-tags: [Kahvilat]
+date: 2019-03-14
+tags: [Kupissa]
 class: post-template
 author: sami
-excerpt: "Tanskanmatkan ensimmäisellä etapilla pysähdyimme Johan & Nyströmmin lentokenttäkahvilassa nappaamassa pikaisen flat whiten ja espresson. Mutta saako lentokentältä oikeasti juomakelpoista kahvia?"
+excerpt: "Syyskuussa järjestettiin Tampereella ensimmäistä kertaa Pienpaahtimomessut ja sain tuliaisiksi pieni erä testipaahdettua burundilaista kahvia"
 ---
 
-Meidän kesän 2018 päätapahtuma on kahvintäytteinen viikko Kööpenhaminassa, Samin synnyinmaassa, Tanskassa. Ensimmäinen etappi tällä reissulla on tietenkin Helsinki-Vantaan lentokenttä.
+Ystäväni Jorgos, Jyväskylän [Coffean](http://coffea.fi/) perustaja, osallistui syyskuussa 2018 ensimmäistä kertaa järjestettäviin Micro Roastery Fair -messuihin Tampereen Pakkahuoneella. Itselleni messut tulivat hieman puskista, enkä lyhyellä varoitusajalla valitettavasti päässyt itse osallistumaan.
 
-Henna ei ole koskaan ennen käynyt lentokentällä, joten sain seurata vierestä hänen ensimmäisiä reaktioita tähän kauppakeskuksen ja risteilylaivan rumaan risteytykseen. Kaikki oli muuten hyvin, mutta kahvi kuulemma maistuisi.
+Ilokseni Jorgos toi minulle kuitenkin tuliaisina pienen erän burundilaista kahvia, jonka hän oli paahtanut esillä olleella [Ikawa-testipaahtimella](https://www.ikawacoffee.com/).
 
-Ilmaisua _"hyvää kahvia"_ on vaikeaa ajatella samassa kontekstissa lentokenttien kanssa, mutta Helsinki-Vantaa onkin onneksi hieman poikkeuksellisen hyvinvarusteltu lentokenttä. Johan & Nyströmmille siis!
+![ikawa-yrityksen kahvipussi](/assets/images/2019-03/burundipussi.jpg)
 
-![johan & nyströmmin kahvila](/assets/images/2019-03/burundipussi.jpg)
+Kahvia sai messuilla mukaan huikeat 50 grammaa, josta riitti siis vain pariin kuppiin, joten _"arvioni"_ perustuu melko pieneen otantaan. Siitä huolimatta, löysin paljonkin sanottavaa jo näinkin pienestä kahvimäärästä.
 
-Miljöönä Johan & Nyströmmin Helsinki-Vantaan edustus on lentokenttämäisen hektinen ja kiireinen. Kahvila sijaitsee kakkosterminaalin aivan perimmäisessä päässä. Asiakaspaikkoja on yleensä saatavilla, eikä jonoakaan yleensä ole juuri nimeksikään.
+Minulla menee yleensä uudesta kahvista hukkaan 16-34 grammaa, mikäli testaan sitä espressoa varten. Ensimmäiset shotit vaatii aina hieman hakemista annostuksen ja jauhauksen suhteen, joten en uskaltanut näin pienellä testimäärällä lähteä kokeilemaan miltä se olisi espressona maistunut. Joten, valmistusmenetelmiksi valikoitui sekä **Aeropress** että **Chemex**.
 
-Baristojen asiakaspalvelu on suomalaisen kolmannen aallon kahviloille tyypillisesti asiallista ja kohteliasta. Lisätietoa tarjolla olevista kahveista annetaan mielellään ja paikan päältä voi myös ostaa kahvivälineitä ja kahvipapuja.
+Käytän käytännössä aina Aeropressini kanssa metallista kestosuodatinta. Mielestäni, paperiset suodattimet muuttavat hieman makua, vaikka ne ovatkin kätevämpiä käyttää. Metallinen suodatin päästää kuppiin enemmän kahvin omia öljyjä, helpottaen kevyempienkin makujen erottamista kupista. Se ei aina maistu paremmalta, sillä mahdolliset ongelmat uutossa tai kahvin paahdossa tulevat myös paremmin esille. Helpottaa mielestäni arvioiden kirjoittamista.
 
-![Flat White -kahvijuoma kupissa](/assets/images/2019-03/burundipavut.jpg)
+Aeropressissä aloitan yleensä uuttamalla 1:14 -suhteella kahvia. 18 grammaa kahvia ja 260 grammaa vettä Inverted-metodilla. Tarvittaessa vähemmän kahvia myöhemmillä uutoilla, mutta tykkään keittää kahvini hieman vahvempana Aeropressillä, kuin muilla menetelmillä.
 
-Tilasimme flat whiten ja espresson, jotka olivat valmistettu Johan & Nyströmmin FTO-kahviblendistä. Espresson mukana tuli lasillinen vissyä makuhermojen puhdistamista varten.
+Chemexillä taas käytän nk. kultaista suhdetta eli 1:16,6 -suhdetta. Toisin sanoen, litraa vettä kohden 60 grammaa kahvia.
 
-Minulla on FTO -blendistä ihan hyviä kokemuksia, se on melko tasapainoinen espresso ja taipuu monenlaiseen, mutta tällä kertaa siinä hieman ongelmia.
-
-Espressot maistuivat hieman palanneelta, mikä johtuu todennäköisesti siitä, että portafilterissä, eli suodatinkahvassa, oli liikaa kahvia. Tämä johtaa siihen, että kahvi ei mahdu laajenemaan ja jää kuivaksi. SIlloin tampattu kahvi kärähtää ollessaan gruppoa, eli espressokoneen suodatinta, vasten. Lopputulemana on kuiva kahvikiekko portafiltterissä ja yleensä palanut ja aliuuttunut espressoshotti.
-
-Flat whiten maito pelasti tilanteen. Maidossa oli kaunis kukkakuvio ja se oli rakenteeltaan melko sileä ja kermainen. Kevyt palaneen maku yritti aina hiipiä suuhun juuri ennen kuin maito pelasti joka suullisen. Flat whitessä oli muuten persoonallinen, miellyttävä ja silkkinen suuntuntuma ja kahvinhimot tulivat asiallisesti tyydytettyä.
-
-Espresso oli kevyesti hapokas, mutta tässäkin maistui ujo palanut maku. Espressona FTO on yleensä hyvin pähkäinen ja suklainen, mutta tällä kertaa nämä vienommat vivahteet eivät päässeet esille.
-
-Lentokenttäkahviksi Johan & Nyström on huononakin päivänä paljon parempi kuin muut kahvilat lentokentällä. Ensi kerralla taidan kuitenkin ottaa suodatinkahvin.
+![burundilaisia kahvipapuja](/assets/images/2019-03/burundipavut.jpg)
