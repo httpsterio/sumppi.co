@@ -13,7 +13,7 @@ excerpt: "Syyskuussa järjestettiin Tampereella ensimmäistä kertaa Pienpaahtim
 
 Ystäväni Jorgos, Jyväskylän [Coffean](http://coffea.fi/) perustaja, osallistui syyskuussa 2018 ensimmäistä kertaa järjestettäviin Micro Roastery Fair -messuihin Tampereen Pakkahuoneella. Itselleni messut tulivat hieman puskista, enkä lyhyellä varoitusajalla valitettavasti päässyt itse osallistumaan.
 
-Ilokseni Jorgos toi minulle kuitenkin tuliaisina pienen erän burundilaista kahvia, jonka hän oli paahtanut esillä olleella [Ikawa-testipaahtimella](https://www.ikawacoffee.com/).
+Ilokseni Jorgos toi minulle tuliaisina pienen erän burundilaista kahvia, jonka hän oli paahtanut esillä olleella [Ikawa-testipaahtimella](https://www.ikawacoffee.com/).
 
 ![ikawa-yrityksen kahvipussi](/assets/images/2019-03/burundipussi.jpg)
 
