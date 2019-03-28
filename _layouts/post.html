@@ -5,19 +5,12 @@ class: post-template
 disqus: false
 ---
 
-<!-- default -->
-
-<!-- The tag above means: insert everything in this file
-into the {body} of the default.hbs template -->
-
 <header class="site-header outer">
     <div class="inner">
         {% include site-nav.html %}
     </div>
 </header>
 
-<!-- Everything inside the #post tags pulls data from the post -->
-<!-- #post -->
 
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
@@ -52,7 +45,6 @@ into the {body} of the default.hbs template -->
                 </div>
             </section>
 
-            <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers %}
                 <section class="subscribe-form">
                     <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
@@ -61,8 +53,7 @@ into the {body} of the default.hbs template -->
                 </section>
             {% endif %}
             <footer class="post-full-footer">
-                <!-- Everything inside the #author tags pulls data from the author -->
-                <!-- #author-->
+
                 {% for author in site.data.authors %}
                     {% if author[1].username == page.author %}
                         <section class="author-card">
@@ -84,7 +75,6 @@ into the {body} of the default.hbs template -->
                         </div>
                     {% endif %}
                 {% endfor %}
-                <!-- /author  -->
             </footer>
         </a>
 
@@ -93,7 +83,6 @@ into the {body} of the default.hbs template -->
     </div>
 </main>
 
-<!-- Links to Previous/Next posts -->
 <aside class="read-next outer">
     <div class="inner">
         <div class="read-next-feed">
@@ -144,9 +133,4 @@ into the {body} of the default.hbs template -->
     </div>
 </aside>
 
-<!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
 {% include floating-header.html %}
-
-<!-- /post -->
-
-<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->

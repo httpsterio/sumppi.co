@@ -8,11 +8,6 @@ navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-<!-- default -->
-<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
-
-<!-- The big featured header, it uses blog cover image as a BG if available -->
-<!-- #tag -->
 {% include dynamic_tag_info.html %}
 <header class="site-header outer {% if cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
     <div class="inner">
@@ -29,13 +24,10 @@ logo: 'assets/images/ghost.png'
         </div>
     </div>
 </header>
-<!-- tag -->
 
-<!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
         <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             {%  include post-card.html %}
         </div>
     </div>
