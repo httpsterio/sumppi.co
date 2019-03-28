@@ -8,14 +8,14 @@
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
 {% if page.content and page.current == 'post' or page.current == 'about' %} {%
-assign excerpt = page.content | strip_html | truncatewords: 50, "" %} {% endif
+assign post.excerpt = page.content | strip_html | truncatewords: 50, "" %} {% endif
 %}
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{
     page.title
   }}{% else %}{{ site.title }}{% endif %}" />
-<meta property="og:description" content="{% if post.excerpt %}{{ excerpt }}{% elsif page.description %}{{
+<meta property="og:description" content="{% if post.excerpt %}{{ post.excerpt }}{% elsif page.description %}{{
     page.description
   }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{
@@ -37,7 +37,7 @@ assign excerpt = page.content | strip_html | truncatewords: 50, "" %} {% endif
 <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{
     page.title
   }}{% else %}{{ site.title }}{% endif %}" />
-<meta name="twitter:description" content="{% if post.excerpt %}{{ excerpt }}{% elsif page.description %}{{
+<meta name="twitter:description" content="{% if post.excerpt %}{{ post.excerpt }}{% elsif page.description %}{{
     page.description
   }}{% else %}{{ site.description }}{% endif %}" />
 <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}" />
@@ -76,7 +76,7 @@ assign excerpt = page.content | strip_html | truncatewords: 50, "" %} {% endif
       "@type": "WebPage",
       "@id": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
     },
-    "description": "{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+    "description": "{% if post.excerpt %}{{ post.excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
   }
 </script>
 
