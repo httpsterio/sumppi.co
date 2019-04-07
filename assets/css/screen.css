@@ -58,7 +58,21 @@ body {
 .site-main {
   z-index: 100;
   flex-grow: 1;
+}
+
+.site-main::after {
+  content: "";
   background-color: rgb(245, 242, 233);
+  background-image: url(/assets/bg.png);
+  background-repeat: repeat;
+  background-size: 900px;
+  opacity: 0.1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
 }
 
 /* Full width page blocks */
@@ -110,31 +124,6 @@ body {
   color: #fff;
   background: color(var(--darkgrey) l(-5%)) no-repeat center center;
   background-size: cover;
-}
-
-.site-header:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 10;
-  display: block;
-  background: rgba(0, 0, 0, 0.18);
-}
-
-.site-header:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: auto;
-  left: 0;
-  z-index: 10;
-  display: block;
-  height: 80px;
-  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
 }
 
 .site-header.no-cover:before,
@@ -1255,9 +1244,19 @@ Super neat trick courtesy of @JoelDrapper
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
+  max-width: 100%;
+  background-image: url("/assets/images/cover.jpg");
+  size: cover;
+}
+
+.author-footer-overlay {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
   padding: 3vw 3vw 3vw 3vw;
   max-width: 100%;
-  background-color: rgba(228, 226, 210, 0.3);
+  background: linear-gradient(rgba(37, 52, 73, 0.212), rgba(34, 54, 80, 0.8));
 }
 
 .author-card {
@@ -1278,7 +1277,7 @@ Super neat trick courtesy of @JoelDrapper
 }
 
 .author-card-name a {
-  color: var(--darkgrey);
+  color: var(--whitegrey);
   font-weight: 700;
 }
 
@@ -1288,7 +1287,7 @@ Super neat trick courtesy of @JoelDrapper
 
 .author-card-content p {
   margin: 0;
-  color: var(--midgrey);
+  color: var(--whitegrey);
   line-height: 1.3em;
 }
 
@@ -1300,8 +1299,8 @@ Super neat trick courtesy of @JoelDrapper
 .author-card-button {
   display: block;
   padding: 9px 16px;
-  border: color(var(--midgrey) l(+20%)) 1px solid;
-  color: var(--midgrey);
+  border: color(var(--whitegrey) l(+20%)) 1px solid;
+  color: var(--whitegrey);
   font-size: 1.2rem;
   line-height: 1;
   font-weight: 500;
@@ -2083,7 +2082,6 @@ textarea {
   background: #cc4949;
 }
 
-
 /* Table of Contents
 /* ------------------------------------------------------------
 
@@ -2105,7 +2103,7 @@ production stylesheet in assets/built/screen.css
   margin: 4rem auto;
   font-family: "Open Sans", sans-serif;
   font-size: 1.3rem;
-  color: #9EABB3;
+  color: #9eabb3;
   text-align: center;
 }
 
@@ -2148,21 +2146,21 @@ production stylesheet in assets/built/screen.css
 
 .extra-pagination {
   display: none;
-  border-bottom: #EBF2F6 1px solid;
+  border-bottom: #ebf2f6 1px solid;
 }
 .extra-pagination:after {
   display: block;
   content: "";
   width: 7px;
   height: 7px;
-  border: #E7EEF2 1px solid;
+  border: #e7eef2 1px solid;
   position: absolute;
   bottom: -5px;
   left: 50%;
   margin-left: -5px;
-  background: #FFF;
+  background: #fff;
   border-radius: 100%;
-  box-shadow: #FFF 0 0 0 5px;
+  box-shadow: #fff 0 0 0 5px;
 }
 .extra-pagination .pagination {
   width: auto;

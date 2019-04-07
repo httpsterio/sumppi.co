@@ -53,6 +53,7 @@ disqus: false
                 </section>
             {% endif %}
             <footer class="post-full-footer">
+            <div class="author-footer-overlay">
 
                 {% for author in site.data.authors %}
                     {% if author[1].username == page.author %}
@@ -75,6 +76,7 @@ disqus: false
                         </div>
                     {% endif %}
                 {% endfor %}
+            </div>
             </footer>
         </a>
 

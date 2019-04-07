@@ -8,28 +8,28 @@ sami:
   facebook: False
   twitter: httpsterio
   instagram: httpsterio
-  cover: assets/images/blog-cover.jpg
+  cover: assets/images/cover.jpg
 henna:
   username: henna
   name: Henna
   location: False
-  url_full: 
-  url: 
+  url_full:
+  url:
   bio: Kahvi, tee, biologia & kuvataide.
   picture: assets/images/henna.jpg
   facebook: False
   twitter: False
   instagram: kirrpukka
-  cover: assets/images/blog-cover.jpg
+  cover: assets/images/cover.jpg
 hennajasami:
   username: hennajasami
   name: Henna&Sami
   location: Jyväskylä
-  url_full: 
-  url: 
+  url_full:
+  url:
   bio: Kahvi ja tee on meillä lähellä sydäntä. Kirjotellaan, maistellaan ja ihmetellään niitä yhdessä ja dokumentoidaan sitten tänne.
   picture: assets/images/hennajasami.jpg
   facebook: False
   twitter: False
   instagram: sumppico
-  cover: assets/images/blog-cover.jpg
+  cover: assets/images/cover.jpg
